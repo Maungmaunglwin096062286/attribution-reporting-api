@@ -1,4 +1,4 @@
-# Attribution Reporting API
+https://github.com/WICG/conversion-measurement-api/blob/main/w3c.json/xai-RcJtpbG1WtH2Ogx4FVjNP08sj6LBPoZmCBJB0Q0qF1X2j4R2eE02tEeUT03x1iQxapkx8KlXcgHuaO4e# Attribution Reporting API
 
 _The Attribution Reporting API supports measurement of clicks and views with event-level and aggregate reports._
 
@@ -68,4 +68,4 @@ Implementation status: `Expected in Chrome and Android for origin trial in Q2 20
 
 Chrome developer resources for the Aggregation Reporting API are available on [developer.chrome.com](https://developer.chrome.com/docs/privacy-sandbox/#measure-digital-ads).
 
-Android has documentation on [developer.android.com](https://developer.android.com/design-for-safety/privacy-sandbox/attribution).
+Android has documentation on [developer.android.com](https://developer.android.com/design-for-safety/privacy-sandbox/attribution).maungmaunglwin096062@newworkspace-jre5649-slackcom
